@@ -10,7 +10,7 @@ spring:
   #声明微服务访问数据库的四大参数
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://192.168.232.49:3306/jsd21131?useSSL=false&&characterEncoding=utf-8
+    url: jdbc:mysql://192.168.232.49:3307/jsd21131?useSSL=false&&characterEncoding=utf-8
     username: root
     password: 123456
   #声明微服务使用jap正向工程
